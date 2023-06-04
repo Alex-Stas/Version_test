@@ -3,3 +3,7 @@ line added
 second line
 third
 forth
+
+*test*
+
+**bold**
