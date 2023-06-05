@@ -11,3 +11,4 @@ forth
 2
 test-1
 test gitignore
+continue gitignore
